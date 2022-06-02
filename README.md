@@ -70,4 +70,3 @@
     </footer>
 </body>
 </html>
-![logo_icon](https://user-images.githubusercontent.com/78783859/171668251-ffba4176-8cd9-4ef6-aa82-dbec6f9e76f1.png)
